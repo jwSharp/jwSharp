@@ -23,6 +23,9 @@
 <br/><br/>
 
 ### Tools
+<img align="left" height=40 width=40 src="https://ico.vercel.app/trello/add" alt="Trello"/>
+<img align="left" height=40 width=40 src="https://ico.vercel.app/googlecolab/add" alt="Google Colab"/>
+<img align="left" height=40 width=40 src="https://ico.vercel.app/microsoftoffice/add" alt="Microsoft Office"/>
 <br/><br/><br/><br/>
 
 # Project Demos:
