@@ -31,6 +31,7 @@
 On their way!
 <br/><br/><br/><br/>
 
+# Get In Touch:
 [<img align="left" src="https://img.shields.io/badge/Website-AAAAAA?style=for-the-badge&logo=Website&logoColor=blue" alt="Website" />][Portfolio]
 [<img align="left" src="https://img.shields.io/badge/LinkedIn-ADDDDD?style=for-the-badge&logo=LinkedIn&logoColor=blue" alt="LinkedIn" />][LinkedIn]
 [<img align="left" src="https://img.shields.io/badge/Gmail-FFCCCB?style=for-the-badge&logo=Gmail&logoColor=blue" alt="Gmail" />][Email]
