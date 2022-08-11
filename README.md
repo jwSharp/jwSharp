@@ -1,10 +1,10 @@
 # Hi there 👋 I am Jacob Sharp!
 
-- 🌱 
-- 🔭 
-- 👯 
-- 🤔 
-- 💬 
+- 🌱 Leading a team of 5 to complete a chess repository for display to IP's in late August.
+- 🔭 Applying for internships for the summer of 2023.
+- 👯 Joined clubs at the University of Pittsburgh including Robotics, Computer Science, Math, and Chess.
+- 🤔 Launch an independent project that directly helps a non-profit organization.
+- 💬 Lifelong networker; always open to virtual meetings over tea.
 
 # Languages and Tools:
 ### Backend
