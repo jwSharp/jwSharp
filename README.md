@@ -12,8 +12,8 @@
 <img align="left" height=40 width=40 src="https://ico.vercel.app/python/add" alt="Python"/>
 <img align="left" height=40 width=40 src="https://www.shareicon.net/data/512x512/2015/09/18/102870_java_512x512.png" alt="Java"/>
 <img align="left" height=40 width=40 src="https://ico.vercel.app/git/add" alt="Git"/>
-<img align="left" height=40 width=40 src="https://ico.vercel.app/hackerrank/add" alt="HackerRank"/>
-<img align="left" height=40 width=40 src="https://ico.vercel.app/leetcode/add" alt="LeetCode"/>
+<a href="https://www.hackerrank.com/jwsharp"><img align="left" height=40 width=40 src="https://ico.vercel.app/hackerrank/add" alt="HackerRank"/></a>
+<a href="https://leetcode.com/jwsharp/"><img align="left" height=40 width=40 src="https://ico.vercel.app/leetcode/add" alt="LeetCode"/></a>
 <br/><br/>
 
 ### Frontend
@@ -28,8 +28,11 @@
 <br/><br/><br/><br/>
 
 # Project Demos:
-On their way!
-<br/><br/><br/><br/>
+### <a href="https://github.com/jwSharp/Chess">Chess</a>
+
+[![Practice Demonstration of 1.5 Month's of Chess](https://i9.ytimg.com/vi_webp/q7a5Yv4uI44/mqdefault.webp?sqp=COC-mpgG&rs=AOn4CLBHgAn6UketS1by4jVtAGutDHRj4g)](https://www.youtube.com/watch?v=q7a5Yv4uI44)
+
+*Please note that official presentation is protected by FERPA. This is a "mock" portion of the demonstration.*
 
 # Get In Touch:
 <!-- [<img align="left" src="https://img.shields.io/badge/Website-AAAAAA?style=for-the-badge&logo=Website&logoColor=blue" alt="Website" />][Portfolio] -->
