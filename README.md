@@ -12,6 +12,7 @@
 <img align="left" height=40 width=40 src="https://ico.vercel.app/python/8ae1eb" alt="Python"/>
 <img align="left" height=40 width=40 src="https://www.shareicon.net/data/512x512/2015/09/18/102870_java_512x512.png" alt="Java"/>
 <img align="left" height=40 width=40 src="https://ico.vercel.app/git/8ae1eb" alt="Git"/>
+
 <br/><br/>
 
 ### Frontend
@@ -23,11 +24,6 @@
 <img align="left" height=40 width=40 src="https://ico.vercel.app/trello/8ae1eb" alt="Trello"/>
 <img align="left" height=40 width=40 src="https://ico.vercel.app/googlecolab/8ae1eb" alt="Google Colab"/>
 <img align="left" height=40 width=40 src="https://ico.vercel.app/microsoftoffice/8ae1eb" alt="Microsoft Office 365"/>
-<br/><br/>
-
-### DSA
-<a href="https://www.hackerrank.com/jwsharp"><img align="left" height=40 width=40 src="https://ico.vercel.app/hackerrank/8ae1eb" alt="HackerRank"/></a>
-<a href="https://leetcode.com/jwsharp/"><img align="left" height=40 width=40 src="https://ico.vercel.app/leetcode/8ae1eb" alt="LeetCode"/></a>
 
 <br/><br/><br/><br/>
 
