@@ -1,44 +1,65 @@
-# Hi there 👋 I am Jacob Sharp!
+# Hi all 👋 I am Jacob Sharp!
 
-- 🌱 Leading a team of 5 to complete a chess repository for display to IP's in late August.
+<!-- Current status section -->
+- 🌱 Write website and tools for our automobile ecomerce startup.
 - 🔭 Applying for internships for the summer of 2023.
-- 👯 Joined clubs at the University of Pittsburgh including Robotics, Computer Science, Math, and Chess.
-- 🤔 Launch an independent project that directly helps a non-profit organization.
+- 👯 TechWise Course 2 underway. Sharpening HTML/CSS and JS with a focus on accessibility.
+- 🤔 Winter break courses on applied machine learning.
 - 💬 Lifelong networker; always open to virtual meetings over tea.
+
+<br/>
+
+<!-- Skills section -->
 
 # Languages and Tools:
 ### Backend
-<img align="left" height=40 width=40 src="https://ico.vercel.app/cplusplus/add" alt="C++"/>
-<img align="left" height=40 width=40 src="https://ico.vercel.app/python/add" alt="Python"/>
-<img align="left" height=40 width=40 src="https://www.shareicon.net/data/512x512/2015/09/18/102870_java_512x512.png" alt="Java"/>
-<img align="left" height=40 width=40 src="https://ico.vercel.app/git/add" alt="Git"/>
-<a href="https://www.hackerrank.com/jwsharp"><img align="left" height=40 width=40 src="https://ico.vercel.app/hackerrank/add" alt="HackerRank"/></a>
-<a href="https://leetcode.com/jwsharp/"><img align="left" height=40 width=40 src="https://ico.vercel.app/leetcode/add" alt="LeetCode"/></a>
+<img align="left" height=60 width=60 src="https://ico.vercel.app/cplusplus/8ae1eb" alt="C++ Logo" title="C++"/>
+<img align="left" height=60 width=60 src="https://ico.vercel.app/c/8ae1eb" alt="C Logo" title="C"/>
+<img align="left" height=60 width=60 src="https://ico.vercel.app/python/8ae1eb" alt="Python Logo" title="Python"/>
+<img align="left" height=60 width=60 src="https://www.shareicon.net/data/512x512/2015/09/18/102870_java_512x512.png" alt="Java Logo" title="Java"/>
+<img align="left" height=60 width=60 src="https://ico.vercel.app/webassembly/8ae1eb" alt="WebAssembly Logo" title="WebAssembly"/>
+
 <br/><br/>
 
 ### Frontend
-<img align="left" height=40 width=40 src="https://ico.vercel.app/html5/add" alt="HTML 5"/>
-<img align="left" height=40 width=40 src="https://ico.vercel.app/css3/add" alt="CSS 3"/>
+<img align="left" height=60 width=60 src="https://ico.vercel.app/html5/8ae1eb" alt="HTML 5 Logo" title="HTML 5"/>
+<img align="left" height=60 width=60 src="https://ico.vercel.app/css3/8ae1eb" alt="CSS 3 Logo" title="CSS3"/>
+<img align="left" height=60 width=60 src="https://ico.vercel.app/javascript/8ae1eb" alt="JavaScript Logo" title="JavaScript"/>
 <br/><br/>
 
 ### Tools
-<img align="left" height=40 width=40 src="https://ico.vercel.app/trello/add" alt="Trello"/>
-<img align="left" height=40 width=40 src="https://ico.vercel.app/googlecolab/add" alt="Google Colab"/>
-<img align="left" height=40 width=40 src="https://ico.vercel.app/microsoftoffice/add" alt="Microsoft Office"/>
-<br/><br/><br/><br/>
+<img align="left" height=40 width=40 src="https://ico.vercel.app/git/8ae1eb" alt="Git Logo" title="Git"/>
+<img align="left" height=40 width=40 src="https://ico.vercel.app/cypress/8ae1eb" alt="Cypress Logo" title="Cypress"/>
+<img align="left" height=40 width=40 src="https://ico.vercel.app/trello/8ae1eb" alt="Trello Logo" title="Trello"/>
+<img align="left" height=40 width=40 src="https://ico.vercel.app/vmware/8ae1eb" alt="VMWare Logo" title="VMWare"/>
+<img align="left" height=40 width=40 src="https://ico.vercel.app/ubuntu/8ae1eb" alt="Ubuntu Logo" title="Ubuntu"/>
+<img align="left" height=40 width=40 src="https://ico.vercel.app/microsoftoffice/8ae1eb" alt="Microsoft Office 365 Logo" title="Microsoft Office 365"/>
+<img align="left" height=40 width=40 src="https://ico.vercel.app/microsoftaccess/8ae1eb" alt="Microsoft Access Logo" title="Microsoft Access"/>
+<img align="left" height=40 width=40 src="https://ico.vercel.app/googlecolab/8ae1eb" alt="Google Colab Logo" title="Google Colab"/>
+<img align="left" height=40 width=40 src="https://ico.vercel.app/googledomains/8ae1eb" alt="Google Domains Logo" title="Google Domains"/>
+
+<br/><br/><br/>
+
+<!-- Projects section -->
 
 # Project Demos:
 ### <a href="https://github.com/jwSharp/Chess">Chess</a>
 
-[![Practice Demonstration of 1.5 Month's of Chess](https://i9.ytimg.com/vi_webp/q7a5Yv4uI44/mqdefault.webp?sqp=COC-mpgG&rs=AOn4CLBHgAn6UketS1by4jVtAGutDHRj4g)](https://www.youtube.com/watch?v=q7a5Yv4uI44)
+Link to our prerecorded YouTube demonstration of functionality.<br/>
+[![Practice Demonstration of Chess Project for Techwise](./images/demo.jpg)](https://www.youtube.com/watch?v=q7a5Yv4uI44)
 
-*Please note that official presentation is protected by FERPA. This is a "mock" portion of the demonstration.*
+*Please note that official presentation is protected by FERPA. This is a "mock" portion of the demonstration. Email me for details.*
+
+<br/>
+
+<!--Contact section -->
 
 # Get In Touch:
-<!-- [<img align="left" src="https://img.shields.io/badge/Website-AAAAAA?style=for-the-badge&logo=Website&logoColor=blue" alt="Website" />][Portfolio] -->
-[<img align="left" src="https://img.shields.io/badge/LinkedIn-ADDDDD?style=for-the-badge&logo=LinkedIn&logoColor=blue" alt="LinkedIn" />][LinkedIn]
-[<img align="left" src="https://img.shields.io/badge/Gmail-FFCCCB?style=for-the-badge&logo=Gmail&logoColor=blue" alt="Gmail" />][Email]
+<!-- [<img align="left" src="https://img.shields.io/badge/Website-8ae1eb?style=for-the-badge&logo=Website&logoColor=blue" alt="Website" />][Portfolio] -->
+[<img align="left" src="https://img.shields.io/badge/LinkedIn-8ae1eb?style=for-the-badge&logo=LinkedIn&logoColor=blue" alt="LinkedIn Logo on Button" title="Jacob Sharp LinkedIn Profile"/>][LinkedIn]
+[<img align="left" src="https://img.shields.io/badge/Gmail-FFCCCB?style=for-the-badge&logo=Gmail&logoColor=blue" alt="Gmail Logo on Button" title="Send Email to Jacob Sharp"/>][Email]
 
 [LinkedIn]: https://www.linkedin.com/in/jacob-w-sharp/
 <!-- [Portfolio]: http://www.jwsharp.com -->
 [Email]: mailto:jws146@pitt.edu
+
