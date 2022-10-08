@@ -44,7 +44,8 @@
 # Project Demos:
 ### <a href="https://github.com/jwSharp/Chess">Chess</a>
 
-[![Practice Demonstration of 1.5 Month's of Chess](https://i9.ytimg.com/vi_webp/q7a5Yv4uI44/mqdefault.webp?sqp=COC-mpgG&rs=AOn4CLBHgAn6UketS1by4jVtAGutDHRj4g)](https://www.youtube.com/watch?v=q7a5Yv4uI44)
+Link to our prerecorded YouTube demonstration of functionality.<br/>
+[![Practice Demonstration of Chess Project for Techwise](./images/demo.jpg)](https://www.youtube.com/watch?v=q7a5Yv4uI44)
 
 *Please note that official presentation is protected by FERPA. This is a "mock" portion of the demonstration. Email me for details.*
 
