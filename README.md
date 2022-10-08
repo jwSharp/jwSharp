@@ -1,9 +1,9 @@
-# Hi there 👋 I am Jacob Sharp!
+# Hi all 👋 I am Jacob Sharp!
 
-- 🌱 Leading a team of 5 to complete a chess repository for display to IP's in late August.
+- 🌱 Write website and tools for our automobile ecomerce startup.
 - 🔭 Applying for internships for the summer of 2023.
-- 👯 Joined clubs at the University of Pittsburgh including Robotics, Computer Science, Math, and Chess.
-- 🤔 Launch an independent project that directly helps a non-profit organization.
+- 👯 TechWise Course 2 underway. Sharpening HTML/CSS and JS with a focus on accessibility.
+- 🤔 Winter break courses on applied machine learning.
 - 💬 Lifelong networker; always open to virtual meetings over tea.
 
 # Languages and Tools:
@@ -24,7 +24,7 @@
 ### Tools
 <img align="left" height=40 width=40 src="https://ico.vercel.app/trello/add" alt="Trello"/>
 <img align="left" height=40 width=40 src="https://ico.vercel.app/googlecolab/add" alt="Google Colab"/>
-<img align="left" height=40 width=40 src="https://ico.vercel.app/microsoftoffice/add" alt="Microsoft Office"/>
+<img align="left" height=40 width=40 src="https://ico.vercel.app/microsoftoffice/add" alt="Microsoft Office 365"/>
 <br/><br/><br/><br/>
 
 # Project Demos:
