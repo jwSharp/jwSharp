@@ -8,23 +8,27 @@
 
 # Languages and Tools:
 ### Backend
-<img align="left" height=40 width=40 src="https://ico.vercel.app/cplusplus/add" alt="C++"/>
-<img align="left" height=40 width=40 src="https://ico.vercel.app/python/add" alt="Python"/>
+<img align="left" height=40 width=40 src="https://ico.vercel.app/cplusplus/8ae1eb" alt="C++"/>
+<img align="left" height=40 width=40 src="https://ico.vercel.app/python/8ae1eb" alt="Python"/>
 <img align="left" height=40 width=40 src="https://www.shareicon.net/data/512x512/2015/09/18/102870_java_512x512.png" alt="Java"/>
-<img align="left" height=40 width=40 src="https://ico.vercel.app/git/add" alt="Git"/>
-<a href="https://www.hackerrank.com/jwsharp"><img align="left" height=40 width=40 src="https://ico.vercel.app/hackerrank/add" alt="HackerRank"/></a>
-<a href="https://leetcode.com/jwsharp/"><img align="left" height=40 width=40 src="https://ico.vercel.app/leetcode/add" alt="LeetCode"/></a>
+<img align="left" height=40 width=40 src="https://ico.vercel.app/git/8ae1eb" alt="Git"/>
 <br/><br/>
 
 ### Frontend
-<img align="left" height=40 width=40 src="https://ico.vercel.app/html5/add" alt="HTML 5"/>
-<img align="left" height=40 width=40 src="https://ico.vercel.app/css3/add" alt="CSS 3"/>
+<img align="left" height=40 width=40 src="https://ico.vercel.app/html5/8ae1eb" alt="HTML 5"/>
+<img align="left" height=40 width=40 src="https://ico.vercel.app/css3/8ae1eb" alt="CSS 3"/>
 <br/><br/>
 
 ### Tools
-<img align="left" height=40 width=40 src="https://ico.vercel.app/trello/add" alt="Trello"/>
-<img align="left" height=40 width=40 src="https://ico.vercel.app/googlecolab/add" alt="Google Colab"/>
-<img align="left" height=40 width=40 src="https://ico.vercel.app/microsoftoffice/add" alt="Microsoft Office 365"/>
+<img align="left" height=40 width=40 src="https://ico.vercel.app/trello/8ae1eb" alt="Trello"/>
+<img align="left" height=40 width=40 src="https://ico.vercel.app/googlecolab/8ae1eb" alt="Google Colab"/>
+<img align="left" height=40 width=40 src="https://ico.vercel.app/microsoftoffice/8ae1eb" alt="Microsoft Office 365"/>
+<br/><br/>
+
+### DSA
+<a href="https://www.hackerrank.com/jwsharp"><img align="left" height=40 width=40 src="https://ico.vercel.app/hackerrank/8ae1eb" alt="HackerRank"/></a>
+<a href="https://leetcode.com/jwsharp/"><img align="left" height=40 width=40 src="https://ico.vercel.app/leetcode/8ae1eb" alt="LeetCode"/></a>
+
 <br/><br/><br/><br/>
 
 # Project Demos:
@@ -36,9 +40,10 @@
 
 # Get In Touch:
 <!-- [<img align="left" src="https://img.shields.io/badge/Website-AAAAAA?style=for-the-badge&logo=Website&logoColor=blue" alt="Website" />][Portfolio] -->
-[<img align="left" src="https://img.shields.io/badge/LinkedIn-ADDDDD?style=for-the-badge&logo=LinkedIn&logoColor=blue" alt="LinkedIn" />][LinkedIn]
+[<img align="left" src="https://img.shields.io/badge/LinkedIn-8ae1eb?style=for-the-badge&logo=LinkedIn&logoColor=blue" alt="LinkedIn" />][LinkedIn]
 [<img align="left" src="https://img.shields.io/badge/Gmail-FFCCCB?style=for-the-badge&logo=Gmail&logoColor=blue" alt="Gmail" />][Email]
 
 [LinkedIn]: https://www.linkedin.com/in/jacob-w-sharp/
 <!-- [Portfolio]: http://www.jwsharp.com -->
 [Email]: mailto:jws146@pitt.edu
+
