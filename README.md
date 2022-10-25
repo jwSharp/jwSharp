@@ -17,7 +17,6 @@
 <img align="left" height=60 width=60 src="https://ico.vercel.app/c/8ae1eb" alt="C Logo" title="C"/>
 <img align="left" height=60 width=60 src="https://ico.vercel.app/python/8ae1eb" alt="Python Logo" title="Python"/>
 <img align="left" height=60 width=60 src="https://www.shareicon.net/data/512x512/2015/09/18/102870_java_512x512.png" alt="Java Logo" title="Java"/>
-<img align="left" height=60 width=60 src="https://ico.vercel.app/webassembly/8ae1eb" alt="WebAssembly Logo" title="WebAssembly"/>
 
 <br/><br/>
 
@@ -31,6 +30,7 @@
 <img align="left" height=40 width=40 src="https://ico.vercel.app/git/8ae1eb" alt="Git Logo" title="Git"/>
 <img align="left" height=40 width=40 src="https://ico.vercel.app/cypress/8ae1eb" alt="Cypress Logo" title="Cypress"/>
 <img align="left" height=40 width=40 src="https://ico.vercel.app/trello/8ae1eb" alt="Trello Logo" title="Trello"/>
+<img align="left" height=40 width=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logisim-icon.svg/220px-Logisim-icon.svg.png" alt="Logisim Logo" title="Logisim"/>
 <img align="left" height=40 width=40 src="https://ico.vercel.app/vmware/8ae1eb" alt="VMWare Logo" title="VMWare"/>
 <img align="left" height=40 width=40 src="https://ico.vercel.app/ubuntu/8ae1eb" alt="Ubuntu Logo" title="Ubuntu"/>
 <img align="left" height=40 width=40 src="https://ico.vercel.app/microsoftoffice/8ae1eb" alt="Microsoft Office 365 Logo" title="Microsoft Office 365"/>
