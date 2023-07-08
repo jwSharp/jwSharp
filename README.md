@@ -1,16 +1,16 @@
 # Hi all 👋 I am Jacob Sharp!
 
-<!-- Current status section -->
-- 🌱 Write website and tools for our automobile ecomerce startup.
-- 🔭 Applying for internships for the summer of 2023.
-- 👯 TechWise Course 2 underway. Sharpening HTML/CSS and JS with a focus on accessibility.
-- 🤔 Winter break courses on applied machine learning.
-- 💬 Lifelong networker; always open to virtual meetings over tea.
+<!-- Current status section  UPDATED July 8 2023-->
 
+- 🏫 University of Pittsburgh Honors College <br/>
+- 💻 TechWise sponsored by Google
+- 🌱 Teaching middle school courses on CS topics
+- 👯 Volunteering CS assistance for two nonprofits
+- 🔭 Applying for 2024 Spring or Summer Internships/Co-Ops
 <br/>
 
 <!-- Skills section -->
-
+<!-- TODO: Query based on Light/Dark Mode -->
 # Languages and Tools:
 ### Backend
 <img align="left" height=60 width=60 src="https://ico.vercel.app/cplusplus/8ae1eb" alt="C++ Logo" title="C++"/>
@@ -44,12 +44,8 @@
 
 # Project Demos:
 ### <a href="https://github.com/jwSharp/Chess">Chess</a>
-
-Link to our prerecorded YouTube demonstration of functionality.<br/>
-[![Practice Demonstration of Chess Project for Techwise](./images/demo.jpg)](https://www.youtube.com/watch?v=q7a5Yv4uI44)
-
-*Please note that official presentation is protected by FERPA. This is a "mock" portion of the demonstration. Email me for details.*
-
+[![Practice Demonstration of Chess Project for Techwise](./images/demo.jpg)](https://www.youtube.com/watch?v=q7a5Yv4uI44) <br/>
+*Official presentation is protected by FERPA. This is a "mock" demo.*
 <br/>
 
 <!--Contact section -->
