@@ -57,6 +57,5 @@
 [<img align="left" src="https://img.shields.io/badge/Resume-33dd88?style=for-the-badge&logo=Adobe&logoColor=blue" alt="Adobe Logo on Button" title="View Jacob Sharp's Resume">][Resume]
 
 [LinkedIn]: https://www.linkedin.com/in/jacob-w-sharp/
-<!-- [Portfolio]: http://www.jwsharp.com -->
+[Portfolio]: http://www.jwsharp.com
 [Email]: mailto:jws146@pitt.edu
-[Resume]: https://github.com/jwSharp/jwSharp/blob/main/Jacob_Sharp_Resume.pdf
