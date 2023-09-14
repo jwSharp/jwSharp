@@ -51,11 +51,12 @@
 <!--Contact section -->
 
 # Get In Touch:
-<!-- [<img align="left" src="https://img.shields.io/badge/Website-8ae1eb?style=for-the-badge&logo=Website&logoColor=blue" alt="Website" />][Portfolio] -->
+[<img align="left" src="https://img.shields.io/badge/Website-8ae1eb?style=for-the-badge&logo=Website&logoColor=blue" alt="Website" />][Portfolio]
 [<img align="left" src="https://img.shields.io/badge/LinkedIn-8ae1eb?style=for-the-badge&logo=LinkedIn&logoColor=blue" alt="LinkedIn Logo on Button" title="Jacob Sharp LinkedIn Profile"/>][LinkedIn]
 [<img align="left" src="https://img.shields.io/badge/Gmail-FFCCCB?style=for-the-badge&logo=Gmail&logoColor=blue" alt="Gmail Logo on Button" title="Send Email to Jacob Sharp"/>][Email]
-[<img align="left" src="https://img.shields.io/badge/Resume-33dd88?style=for-the-badge&logo=Adobe&logoColor=blue" alt="Adobe Logo on Button" title="View Jacob Sharp's Resume">][Resume]
+<!--[<img align="left" src="https://img.shields.io/badge/Resume-33dd88?style=for-the-badge&logo=Adobe&logoColor=blue" alt="Adobe Logo on Button" title="View Jacob Sharp's Resume">][Resume]-->
 
 [LinkedIn]: https://www.linkedin.com/in/jacob-w-sharp/
 [Portfolio]: http://www.jwsharp.com
 [Email]: mailto:jws146@pitt.edu
+<!--[Resume]: -->
